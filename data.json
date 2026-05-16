@@ -1,0 +1,303 @@
+[
+  {
+    "Branch": "Algebra",
+    "FormulaName": "Quadratic Formula",
+    "Formula": "x = (-b ± √(b² - 4ac)) / 2a",
+    "Example": "Solve x²-5x+6=0",
+    "Notes": "Used for quadratic equations"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "(a+b)^2",
+    "Formula": "a² + 2ab + b²",
+    "Example": "(x+2)^2",
+    "Notes": "Basic identity"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "(a-b)^2",
+    "Formula": "a² - 2ab + b²",
+    "Example": "(x-3)^2",
+    "Notes": "Basic identity"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "a^2-b^2",
+    "Formula": "(a-b)(a+b)",
+    "Example": "x²-9",
+    "Notes": "Difference of squares"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "(a+b)^3",
+    "Formula": "a³+3a²b+3ab²+b³",
+    "Example": "(x+1)^3",
+    "Notes": "Cubic expansion"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "AP Sum",
+    "Formula": "n/2[2a+(n-1)d]",
+    "Example": "Sum of first n terms",
+    "Notes": "Arithmetic progression"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "GP Sum",
+    "Formula": "a(1-r^n)/(1-r)",
+    "Example": "Geometric series",
+    "Notes": "r≠1"
+  },
+  {
+    "Branch": "Algebra",
+    "FormulaName": "Log Rule",
+    "Formula": "log(ab)=log a + log b",
+    "Example": "log(2×3)",
+    "Notes": "Logarithmic identity"
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "sin²θ + cos²θ",
+    "Formula": "1",
+    "Example": "θ=30°",
+    "Notes": "Fundamental identity"
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "1 + tan²θ",
+    "Formula": "sec²θ",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "sin(A±B)",
+    "Formula": "sinAcosB ± cosAsinB",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "cos(A±B)",
+    "Formula": "cosAcosB ∓ sinAsinB",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "tan(A±B)",
+    "Formula": "(tanA±tanB)/(1∓tanAtanB)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "Double Angle sin",
+    "Formula": "2sinθcosθ",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Trigonometry",
+    "FormulaName": "Double Angle cos",
+    "Formula": "cos²θ - sin²θ",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "d/dx x^n",
+    "Formula": "n*x^(n-1)",
+    "Example": "d/dx x^3",
+    "Notes": "Power rule"
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "d/dx sinx",
+    "Formula": "cosx",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "d/dx cosx",
+    "Formula": "-sinx",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "Integration x^n",
+    "Formula": "x^(n+1)/(n+1)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "∫ sinx dx",
+    "Formula": "-cosx",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "∫ cosx dx",
+    "Formula": "sinx",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "Product Rule",
+    "Formula": "u dv/dx + v du/dx",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Calculus",
+    "FormulaName": "Quotient Rule",
+    "Formula": "(v du/dx - u dv/dx)/v²",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Coordinate Geometry",
+    "FormulaName": "Distance",
+    "Formula": "√((x2-x1)² + (y2-y1)²)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Coordinate Geometry",
+    "FormulaName": "Midpoint",
+    "Formula": "((x1+x2)/2 , (y1+y2)/2)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Coordinate Geometry",
+    "FormulaName": "Slope",
+    "Formula": "(y2-y1)/(x2-x1)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Coordinate Geometry",
+    "FormulaName": "Line",
+    "Formula": "y = mx + c",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Coordinate Geometry",
+    "FormulaName": "Circle",
+    "Formula": "(x-h)^2+(y-k)^2=r^2",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Area Circle",
+    "Formula": "πr²",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Circumference",
+    "Formula": "2πr",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Volume Sphere",
+    "Formula": "(4/3)πr³",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Surface Sphere",
+    "Formula": "4πr²",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Cylinder Volume",
+    "Formula": "πr²h",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Mensuration",
+    "FormulaName": "Cone Volume",
+    "Formula": "(1/3)πr²h",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Statistics_Probability",
+    "FormulaName": "Mean",
+    "Formula": "Σx / n",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Statistics_Probability",
+    "FormulaName": "Variance",
+    "Formula": "Σ(x-mean)² / n",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Statistics_Probability",
+    "FormulaName": "Std Deviation",
+    "Formula": "√variance",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Statistics_Probability",
+    "FormulaName": "Probability",
+    "Formula": "favourable/total",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Statistics_Probability",
+    "FormulaName": "Conditional",
+    "Formula": "P(A∩B)/P(B)",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Vectors_Matrices",
+    "FormulaName": "Dot Product",
+    "Formula": "|a||b|cosθ",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Vectors_Matrices",
+    "FormulaName": "Cross Product",
+    "Formula": "|a||b|sinθ",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Vectors_Matrices",
+    "FormulaName": "Determinant 2x2",
+    "Formula": "ad-bc",
+    "Example": "",
+    "Notes": ""
+  },
+  {
+    "Branch": "Vectors_Matrices",
+    "FormulaName": "Inverse Matrix",
+    "Formula": "adj(A)/|A|",
+    "Example": "",
+    "Notes": ""
+  }
+]
